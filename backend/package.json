@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "lint": "cross-env ESLINT_USE_FLAT_CONFIG=false eslint src/ index.js --ext .js"
+    "lint": "ESLINT_USE_FLAT_CONFIG=false eslint src/ index.js --ext .js"
   },
   "dependencies": {
     "cors": "^2.8.5",
