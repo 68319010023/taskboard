@@ -7,10 +7,12 @@ name: CI — TaskBoard
 on:
   push:
     branches:
+      - main
       - develop
       - 'feature/**'
   pull_request:
     branches:
+
       - develop
       - main
 
