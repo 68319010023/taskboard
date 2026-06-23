@@ -30,5 +30,5 @@ docker compose up --build
 | PUT | /api/tasks/:id | แก้ไขงาน |
 | DELETE | /api/tasks/:id | ลบงาน |
 
-![CI](https://github.com/<username>/taskboard/actions/workflows/ci.yml/badge.svg)
-![CD](https://github.com/<username>/taskboard/actions/workflows/cd.yml/badge.svg)
+![CI](https://github.com/68319010023/taskboard/actions/workflows/ci.yml/badge.svg)
+![CD](https://github.com/68319010023/taskboard/actions/workflows/cd.yml/badge.svg)
